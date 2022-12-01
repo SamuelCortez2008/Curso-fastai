@@ -1,4 +1,11 @@
-# Solución a Libretas del Curso: Practical Deep Learning for Coders de fast ai
+
+# Universidad de Sonora
+# Maestría en Ciencia de Datos
+
+## Materia: Redes Neuronales Profundas
+
+
+## Solución a Libretas del Curso: Practical Deep Learning for Coders de fast ai
 
 Repositorio de las primeras 5 lecciones realizadas del curso, con las evidencias de las libretas de Jupyter con el código desarrollado en `Python`.
 
