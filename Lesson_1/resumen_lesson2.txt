@@ -1,0 +1,10 @@
+LESSON 2
+____
+The top advice I would give my younger self would be to start blogging sooner. Here are some reasons to blog:
+
+* It’s like a resume, only better. I know of a few people who have had blog posts lead to job offers!
+* Helps you learn. Organizing knowledge always helps me synthesize my own ideas. One of the tests of whether you understand something is whether you can explain it to someone else. A blog post is a great way to do that.
+* I’ve gotten invitations to conferences and invitations to speak from my blog posts. I was invited to the TensorFlow Dev Summit (which was awesome!) for writing a blog post about how I don’t like TensorFlow.
+* Meet new people. I’ve met several people who have responded to blog posts I wrote.
+* Saves time. Any time you answer a question multiple times through email, you should turn it into a blog post, which makes it easier for you to share the next time someone asks.
+____
