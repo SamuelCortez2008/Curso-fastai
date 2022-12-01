@@ -1,5 +1,5 @@
 
-# **Universidad de Sonora**: Maestría en Ciencia de Datos
+# **Universidad de Sonora** - Maestría en Ciencia de Datos
 
 ## Materia: Redes Neuronales Profundas
 
