@@ -1,9 +1,7 @@
 
-# Universidad de Sonora
-# Maestría en Ciencia de Datos
+# **Universidad de Sonora**: Maestría en Ciencia de Datos
 
 ## Materia: Redes Neuronales Profundas
-
 
 ## Solución a Libretas del Curso: Practical Deep Learning for Coders de fast ai
 
